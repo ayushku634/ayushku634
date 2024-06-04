@@ -1,0 +1,20 @@
+[
+    {
+        "cat_id":"5",
+        "cat":"PostMan, SpeedPost, Courier",
+        "data":[
+            {"name": "Postman Vinod Sec 78", "mobile": "+91 9953070891", "Description": "For Speed Post Delivery"},
+            {"name": "Nishant Sharma Postman", "mobile": "+91 8377845895"},
+            {"name": "Postman Ashok MM", "mobile": "+91 8377845875"}
+        ]
+    },
+    {
+        "cat_id":"4",
+        "cat":"Important number in Mahagun Moderne facilities/Others",
+        "data":[
+            {"name": "Postman Vinod Sec 78", "mobile": "+91 9953070891", "Description": "For Speed Post Delivery"},
+            {"name": "Nishant Sharma Postman", "mobile": "+91 8377845895"},
+            {"name": "Postman Ashok MM", "mobile": "+91 8377845875"}
+        ]
+    }
+]
