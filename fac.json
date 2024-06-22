@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": "vowels",
+      "name": "Names Starting with Vowels",
+      "members": [
+        {
+          "name": "ANAND A.",
+          "phd": "University of Minnesota",
+          "address": "FB 327",
+          "contact": "0512-259 7880",
+          "email": "akasha@iitk.ac.in",
+          "research_interests": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators"
+        },
+        {
+          "name": "APARNA DAR",
+          "phd": "S.U.N.Y StonyBrook, USA",
+          "address": "FB 504",
+          "contact": "0512-259 7926",
+          "email": "adar@iitk.ac.in",
+          "research_interests": "Differential Geometry, Algebraic Topology, Knot Theory"
+        },
+        {
+          "name": "AMIT MITRA",
+          "phd": "IIT Kanpur",
+          "address": "FB 518",
+          "contact": "0512-259 6064",
+          "email": "amitra@iitk.ac.in",
+          "research_interests": "Statistical Signal Processing, Data mining in Finance and Econometrics"
+        },
+        {
+          "name": "ARNAB HAZRA",
+          "phd": "North Carolina State University, Raleigh, US",
+          "address": "FB 576",
+          "contact": "0512-259 2272",
+          "email": "ahazra@iitk.ac.in",
+          "research_interests": "Spatial Statistics, Bayesian modeling, Extreme value analysis, Environmental Statistics"
+        }
+      ]
+    },
+    {
+      "id": "consonants",
+      "name": "Names Starting with Consonants",
+      "members": [
+        {
+          "name": "BAHUGUNA, D.",
+          "phd": "IIT Kanpur",
+          "address": "FB 565",
+          "contact": "0512-259 7053",
+          "email": "dhiren@iitk.ac.in",
+          "research_interests": "Differential Equations, Non-linear Analysis, Theory of Semigroups"
+        },
+        {
+          "name": "BAKSHI, KESHAB CHANDRA",
+          "phd": "IMSc., Chennai",
+          "address": "FB 558",
+          "contact": "0512-259 2310",
+          "email": "keshab@iitk.ac.in",
+          "research_interests": "C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras"
+        },
+        {
+          "name": "BAL, KAUSHIK",
+          "phd": "UPPA, France",
+          "address": "FB 525",
+          "contact": "0512-259 6217",
+          "email": "kaushik@iitk.ac.in",
+          "research_interests": "Elliptic and Parabolic Partial Differential Equations"
+        },
+        {
+          "name": "BANERJEE, MALAY",
+          "phd": "University of Calcutta",
+          "address": "FB 526",
+          "contact": "0512- 259-6157",
+          "email": "malayb@iitk.ac.in",
+          "research_interests": "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics"
+        }
+      ]
+    }
+  ]
+}
