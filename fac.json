@@ -1,80 +1,443 @@
-{
-  "categories": [
+[
     {
-      "id": "vowels",
-      "name": "Names Starting with Vowels",
-      "members": [
-        {
-          "name": "ANAND A.",
-          "phd": "University of Minnesota",
-          "address": "FB 327",
-          "contact": "0512-259 7880",
-          "email": "akasha@iitk.ac.in",
-          "research_interests": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators"
-        },
-        {
-          "name": "APARNA DAR",
-          "phd": "S.U.N.Y StonyBrook, USA",
-          "address": "FB 504",
-          "contact": "0512-259 7926",
-          "email": "adar@iitk.ac.in",
-          "research_interests": "Differential Geometry, Algebraic Topology, Knot Theory"
-        },
-        {
-          "name": "AMIT MITRA",
-          "phd": "IIT Kanpur",
-          "address": "FB 518",
-          "contact": "0512-259 6064",
-          "email": "amitra@iitk.ac.in",
-          "research_interests": "Statistical Signal Processing, Data mining in Finance and Econometrics"
-        },
-        {
-          "name": "ARNAB HAZRA",
-          "phd": "North Carolina State University, Raleigh, US",
-          "address": "FB 576",
-          "contact": "0512-259 2272",
-          "email": "ahazra@iitk.ac.in",
-          "research_interests": "Spatial Statistics, Bayesian modeling, Extreme value analysis, Environmental Statistics"
-        }
-      ]
+        "cat_id": 2,
+        "cat": "Pandit Ji for Puja, Katha, Sunderkand",
+        "data": [
+            {
+                "name": "Dev Pandey Pandit Ji",
+                "phone": ["7290016348", "9891616930"]
+            },
+            {
+                "name": "Vijay Pandit Sunderkand",
+                "phone": "9999261099"
+            },
+            {
+                "name": "Pandit Balram",
+                "phone": "9818305243"
+            }
+        ]
     },
     {
-      "id": "consonants",
-      "name": "Names Starting with Consonants",
-      "members": [
-        {
-          "name": "BAHUGUNA, D.",
-          "phd": "IIT Kanpur",
-          "address": "FB 565",
-          "contact": "0512-259 7053",
-          "email": "dhiren@iitk.ac.in",
-          "research_interests": "Differential Equations, Non-linear Analysis, Theory of Semigroups"
-        },
-        {
-          "name": "BAKSHI, KESHAB CHANDRA",
-          "phd": "IMSc., Chennai",
-          "address": "FB 558",
-          "contact": "0512-259 2310",
-          "email": "keshab@iitk.ac.in",
-          "research_interests": "C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras"
-        },
-        {
-          "name": "BAL, KAUSHIK",
-          "phd": "UPPA, France",
-          "address": "FB 525",
-          "contact": "0512-259 6217",
-          "email": "kaushik@iitk.ac.in",
-          "research_interests": "Elliptic and Parabolic Partial Differential Equations"
-        },
-        {
-          "name": "BANERJEE, MALAY",
-          "phd": "University of Calcutta",
-          "address": "FB 526",
-          "contact": "0512- 259-6157",
-          "email": "malayb@iitk.ac.in",
-          "research_interests": "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics"
-        }
-      ]
+        "cat_id": 4,
+        "cat": "Important number in Mahagun Moderne facilities/Others",
+        "data": [
+            {
+                "name": "Facilities Office Mahagun Moderne",
+                "phone": ["8929056005", "0120-4311718"]
+            },
+            {
+                "name": "Head Security Anil Ji",
+                "phone": "8630217957"
+            },
+            {
+                "name": "Rajan Sir Karate MM Club",
+                "phone": "9953160670"
+            },
+            {
+                "name": "Club House Mahagun Moderne",
+                "phone": ""
+            },
+            {
+                "name": "Arjun Sharma Skating Trainer Mahagun Moderne",
+                "phone": "8586929283"
+            },
+            {
+                "name": "Gandabh Basketball MM",
+                "phone": "9868590770"
+            },
+            {
+                "name": "Shadab Alam Basketball MM",
+                "phone": "7042239343"
+            },
+            {
+                "name": "Shakti Lawn Tennis MM",
+                "phone": "9716528852"
+            },
+            {
+                "name": "News Paper Wala (Santosh)",
+                "phone": "9911929979"
+            },
+            {
+                "name": "Puja Saman Shop Mart Basement",
+                "phone": "9319095811"
+            }
+        ]
+    },
+    {
+        "cat_id": 5,
+        "cat": "PostMan, SpeedPost, Courier",
+        "data": [
+            {
+                "name": "Postman Vinod Sec 78",
+                "phone": "9953070891"
+            },
+            {
+                "name": "For Speed Post Delivery Nishant Sharma Postman",
+                "phone": "8377845895"
+            },
+            {
+                "name": "Postman Ashok MM",
+                "phone": "8377845875"
+            }
+        ]
+    },
+    {
+        "cat_id": 6,
+        "cat": "Milk Man for Cow & Buffalo Milk",
+        "data": [
+            {
+                "name": "Shyam Milkman",
+                "phone": "8700424820"
+            },
+            {
+                "name": "Ravindra Milk Man",
+                "phone": "8743042305"
+            }
+        ]
+    },
+    {
+        "cat_id": 7,
+        "cat": "Drycleaner, Dairy Products, and HMart",
+        "data": [
+            {
+                "name": "Wash Mill for Dryclean and Steam Iron",
+                "phone": "7788009921",
+                "address": "In mahagun Mantova tower Basement"
+            },
+            {
+                "name": "SRM Dry Cleaners MM",
+                "phone": ["9891318340", "9717153137"]
+            },
+            {
+                "name": "Gift Item Punam Baranwal",
+                "phone": "8287553590"
+            },
+            {
+                "name": "Namrata Singhal Dairy Products Mahagun",
+                "phone": "7506925435"
+            },
+            {
+                "name": "Khoya HMart MM",
+                "phone": ["9999469697", "1204981411"]
+            },
+            {
+                "name": "California Cake Shop Mahagun",
+                "phone": "8800842441"
+            },
+            {
+                "name": "Bakery Shop in Mart Shashi Home Baker Felecita Tower Eggless Cakes",
+                "phone": "9990979751"
+            },
+            {
+                "name": "Shree Ji Mart",
+                "phone": "8506091181"
+            }
+        ]
+    },
+    {
+        "cat_id": 8,
+        "cat": "CC TV Camera Services",
+        "data": [
+            {
+                "name": "Saurabh CCTV Sector 49",
+                "phone": "8287140089"
+            }
+        ]
+    },
+    {
+        "cat_id": 9,
+        "cat": "RO Water Bottle Supplier",
+        "data": [
+            {
+                "name": "Water Bottle Supply Ajay Pal Water Bottles",
+                "phone": "9999261099"
+            },
+            {
+                "name": "Mukesh MM Water",
+                "phone": "9650350221"
+            },
+            {
+                "name": "Ajaypal Water Bottles Bisleri",
+                "phone": "9999261099"
+            }
+        ]
+    },
+    {
+        "cat_id": 10,
+        "cat": "RO Technician",
+        "data": [
+            {
+                "name": "Pramod",
+                "phone": "9910316079"
+            },
+            {
+                "name": "Sunil",
+                "phone": "9311388746"
+            },
+            {
+                "name": "Mukesh Sharma",
+                "phone": "7678548175"
+            }
+        ]
+    },
+    {
+        "cat_id": 11,
+        "cat": "Lawyer",
+        "data": [
+            {
+                "name": "Piyush Mm",
+                "phone": "8708979863"
+            },
+            {
+                "name": "Chhaya",
+                "phone": "7026778702",
+                "address": "071 Valencia"
+            }
+        ]
+    },
+    {
+        "cat_id": 12,
+        "cat": "Doctors",
+        "data": [
+            {
+                "name": "Dr Avneesh Vij",
+                "specialization": "Physician",
+                "phone": "9818415979"
+            },
+            {
+                "name": "Dr Rajat",
+                "specialization": "Dentist",
+                "phone": "9671017711",
+                "address": "Gate No 2 MM"
+            },
+            {
+                "name": "Dr Monika Kamboj",
+                "specialization": "Dentist",
+                "phone": "7508002434",
+                "address": "Mahagun Mart"
+            },
+            {
+                "name": "Kaizen Dental",
+                "specialization": "Dentist",
+                "phone": "9953909390"
+            },
+            {
+                "name": "Dr Rajiv Sekhri",
+                "specialization": "Dentist",
+                "phone": "7669583849",
+                "address": "D Block Sector 62 Noida",
+                "google_maps": "https://g.co/kgs/PFtVDtb"
+            },
+            {
+                "name": "Dr Piyush Verma",
+                "specialization": "ENT",
+                "phone": "9811504058",
+                "address": "Mahagun"
+            },
+            {
+                "name": "Dr J.K. Gupta",
+                "specialization": "ENT",
+                "phone": "9891543121",
+                "address": "Sethi Arcade."
+            },
+            {
+                "name": "Dr Kshitij Bhatnagar",
+                "specialization": "ENT",
+                "phone": "9910813063"
+            },
+            {
+                "name": "Vipul Agarwal",
+                "specialization": "Ortho Surgeon",
+                "phone": "9971496639",
+                "address": "Mahagun Moderne - Jaypee Hospital 1339 Osimo"
+            },
+            {
+                "name": "Dr Saloni",
+                "specialization": "Homeopathy",
+                "phone": "8130113995"
+            },
+            {
+                "name": "Dr Vibha Seth",
+                "specialization": "Homeopathy",
+                "phone": "9891388177",
+                "address": "Fererra Tower"
+            },
+            {
+                "name": "Dr Suresh Sachdeva",
+                "specialization": "Homeopathy",
+                "phone": "9810486760"
+            },
+            {
+                "name": "Dr Alok Dwivedi",
+                "specialization": "Pediatrician",
+                "phone": "9971611254",
+                "address": "Mahagun Mart"
+            },
+            {
+                "name": "Dr Neha Garg",
+                "specialization": "Pediatrician",
+                "phone": "8860776016",
+                "address": "Mahagun Moderne - Eternia Mezzaria"
+            },
+            {
+                "name": "Dr Rajeev Ranjan",
+                "specialization": "Pediatrician",
+                "phone": "9999717733"
+            },
+            {
+                "name": "Dr Shishir Bhatnagar",
+                "specialization": "Pediatrician",
+                "phone": ["9899188788", "9891588788"]
+            },
+            {
+                "name": "Dr Rajiv Motyani",
+                "specialization": "Neuro Specialist",
+                "address": "Neo Hospital"
+            },
+            {
+                "name": "Dr Nidhi",
+                "specialization": "Eye Doctor",
+                "phone": "9990381082",
+                "address": "Mahagun Moderne Mart"
+            },
+            {
+                "name": "Dr Amit Sachdeva",
+                "specialization": "Dentist",
+                "phone": "8505983081",
+                "address": "Mart"
+            },
+            {
+                "name": "Dr Himanshu Agarwal",
+                "specialization": "Physician",
+                "phone": "8800354355"
+            },
+            {
+                "name": "Dr Kalpana Rathod",
+                "specialization": "Rheumatologist",
+                "phone": "9650994600"
+            },
+            {
+                "name": "Dr Shalini Anu",
+                "specialization": "Eye Doctor",
+                "phone": "9899010130",
+                "address": "Mahagun Moderne 1130 Catania MM"
+            },
+            {
+                "name": "Dr Parneesh",
+                "specialization": "Eye Doctor",
+                "phone": "9990381082",
+                "address": "Mahagun Mart"
+            },
+            {
+                "name": "Dr Amit K Devra",
+                "specialization": "Cardiologist",
+                "phone": "7827629563",
+                "address": "Sec 7 Noida Clinic"
+            },
+            {
+                "name": "Dr Rahul Gupta",
+                "specialization": "Urologist",
+                "phone": ["9818760061", "8800649995"]
+            },
+            {
+                "name": "Dr Abhinav",
+                "specialization": "Urologist",
+                "phone": ["8294453220", "8860361146"]
+            },
+            {
+                "name": "Dr Akhilesh Sharma",
+                "specialization": "Dermatologist",
+                "phone": "9899932674",
+                "address": "Apollo Hospital Sec 26 Noida"
+            },
+            {
+                "name": "Dr Rajiv Sekhri",
+                "specialization": "Dentist",
+                "phone": "7669583849",
+                "address": "Sector 62 Noida"
+            },
+            {
+                "name": "Dr Sharvani Mishra",
+                "specialization": "Science and Maths teacher for class 8th",
+                "phone": "7835867519"
+            }
+        ]
+    },
+    {
+        "cat_id": 13,
+        "cat": "Accountants",
+        "data": [
+            {
+                "name": "CA Sheetal Agarkar",
+                "phone": "7303054150"
+            },
+            {
+                "name": "Rohit",
+                "phone": "9811179380"
+            }
+        ]
+    },
+    {
+        "cat_id": 14,
+        "cat": "Property - Buy, Sell, Rent, Real Estate Agents/Consultants",
+        "data": [
+            {
+                "name": "Sanjeev Kalra MM",
+                "phone": "9311604497"
+            },
+            {
+                "name": "Deepak Nagpal MM",
+                "phone": "9811300896"
+            },
+            {
+                "name": "Shankar MM Gate#2",
+                "phone": "9899998088"
+            },
+            {
+                "name": "Shubham Agarwal for Sector 150, Noida Extention",
+                "phone": "9058409454"
+            },
+            {
+                "name": "Broker",
+                "phone": "9910909538"
+            },
+            {
+                "name": "Shahid Khan Mart",
+                "phone": "9999173092"
+            },
+            {
+                "name": "Deepanshu",
+                "phone": "8882593588"
+            }
+        ]
+    },
+    {
+        "cat_id": 15,
+        "cat": "Interior Designers, False Ceiling Contractors",
+        "data": [
+            {
+                "name": "Garima Sharma",
+                "phone": "9899883893"
+            },
+            {
+                "name": "Dipti Gupta & Mohit Mangal (Theme Living Interiors)",
+                "phone": ["9873466057", "9711496648"]
+            },
+            {
+                "name": "Manavvar Saifi",
+                "specialization": "POP",
+                "phone": "8368884050"
+            },
+            {
+                "name": "Sanjay Mishra",
+                "specialization": "POP False Ceiling",
+                "phone": "8860543152"
+            }
+        ]
+    },
+    {
+        "cat_id": 16,
+        "cat": "Tailors at Mahagun Moderne Gate",
+        "data": []
     }
-  ]
-}
+]
