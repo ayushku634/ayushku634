@@ -45,7 +45,7 @@
     },
     {
         "cat_id": 4,
-        "cat": "Important number in Mahagun Moderne facilities/Others",
+        "cat": "Important number facilities/Others",
         "data": [
             {
                 "name": "Facilities Office Mahagun Moderne",
@@ -405,7 +405,7 @@
     },
     {
         "cat_id": 14,
-        "cat": "Property - Buy, Sell, Rent, Real Estate Agents/Consultants",
+        "cat": "Property - Real Estate Agents/Consultants",
         "data": [
             {
                 "name": "Sanjeev Kalra MM",
@@ -439,7 +439,7 @@
     },
     {
         "cat_id": 15,
-        "cat": "Interior Designers, False Ceiling Contractors",
+        "cat": "Interior Designers, False Ceiling",
         "data": [
             {
                 "name": "Garima Sharma",
