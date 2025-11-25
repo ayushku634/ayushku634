@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ayush, an undergraduate student at IIT Kanpur. I am currently working on 2 projects which are Mathematical Trading Strategies and InvestX.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushku634&theme=dark&show_icons=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushku634&theme=dark&show_icons=true)
 <!--
 **ayushku634/ayushku634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
